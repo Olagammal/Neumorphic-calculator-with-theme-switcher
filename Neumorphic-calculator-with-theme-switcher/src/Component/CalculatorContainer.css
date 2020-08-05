@@ -1,0 +1,24 @@
+.buttonContainer {
+  margin-top: 20px;
+}
+.cal-button {
+  margin: 0 4vh 4vh 0;
+}
+
+.calculator {
+  margin-top: 10vh;
+  width: 64vh;
+}
+.display {
+  border-left: none;
+  border-right: none;
+  border-radius: 0;
+  cursor: default;
+  border-top: none;
+  border-bottom-color: #a4b0bd;
+  min-height: 8vh;
+  font-size: 6vh;
+  font-weight: bold;
+  scrollbar-color: #e74292 #58626e;
+  scrollbar-width: thin;
+}

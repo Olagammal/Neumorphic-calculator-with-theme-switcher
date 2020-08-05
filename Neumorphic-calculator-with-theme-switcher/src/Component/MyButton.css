@@ -1,0 +1,15 @@
+.calculator {
+  border-radius: 2.5vh;
+}
+.buttons {
+  width: 9vh;
+  height: 9vh;
+  border-radius: 50%;
+  border: none;
+  font-weight: bold;
+  font-size: 4vh;
+  text-align: center;
+}
+.button-div {
+  border-radius: 50%;
+}

@@ -1,0 +1,12 @@
+.moon {
+  color: #fff;
+  font-size: 3vh;
+  margin: 2vh 0 3vh 59vh;
+  cursor: pointer;
+}
+.sun {
+  color: #ff9822;
+  font-size: 4vh;
+  margin: 2vh 0 3vh 58vh;
+  cursor: pointer;
+}
